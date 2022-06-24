@@ -1,0 +1,15 @@
+Gomez Alejandro Ulises
+
+a-¿Como queda El master después de estos cambios?
+El master quedo actualizado con todos los datos de las ramas creadas anteriormente
+ya que realizamos los mergepara estar al dia con todas las ramas.
+
+b-¿Beta pudo ver todos los cambios que se realizaron?
+Si, pude observar todos los cambios desde el github luego de realizar los merge, 
+sino tenia que acceder manualmente a cada rama.
+
+c-¿que debió hacer (todos los comandos) en el punto 5 para poder hacer el merge ?
+Una vez creada la rama TORRES, utilizamos los siguientes comandos:
+1-git checkout main (volvemos al main)
+2-git merge TORRES (Realizamos el merge para juntar la rama TORRES a main)
+3-git push (Cargamos los datos correspondientes)
