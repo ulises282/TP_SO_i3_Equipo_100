@@ -1,4 +1,6 @@
 Gomez Alejandro Ulises
+Torres Andres
+Condori Kevin
 
 a-¿Como queda El master después de estos cambios?
 El master quedo actualizado con todos los datos de las ramas creadas anteriormente
@@ -32,3 +34,10 @@ Los comandos fueron los siguientes:
 5  git commit -m ""Modificacion Beta.txt GAMMA"
 6  git push
 
+
+g-   git checkout Gomez
+2  git pull
+3  ipconfig >> prueba.txt
+4  git add .
+5  git commit -m "ALFA modifica el archivo beta.txt"
+6  git push origin Gomez
