@@ -13,3 +13,22 @@ Una vez creada la rama TORRES, utilizamos los siguientes comandos:
 1-git checkout main (volvemos al main)
 2-git merge TORRES (Realizamos el merge para juntar la rama TORRES a main)
 3-git push (Cargamos los datos correspondientes)
+
+d-¿Las ramas creadas por BETA y GAMMA quedan con datos actualizados?
+Solo quedan con los datos que cargamos con el merge.
+
+e-¿Detalle (explique) los problemas que tuvieron al hacer el merge?
+ Al no conocer el comando git merge tuvimos que buscar informacion para utilizarlo correctamente,
+ lo mas  importante fue saber en que rama nos encontrabamos para no cometer errores al hacer el merge.
+
+
+f-¿que debió hacer (todos los comandos) en el punto 7 para poder hacer lo pedido?
+
+Los comandos fueron los siguientes:
+1  git checkout Gomez 
+2  git pull
+3  ipconfig >> prueba.txt
+4  git add .
+5  git commit -m ""Modificacion Beta.txt GAMMA"
+6  git push
+
