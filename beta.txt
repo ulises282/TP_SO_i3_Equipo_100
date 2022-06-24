@@ -51,3 +51,59 @@ Ethernet adapter Conexi¢n de red Bluetooth:
    Connection-specific DNS Suffix  . : 
 
 hora : 11:04
+
+
+
+Condori Kevin
+11:30
+
+Configuración IP de Windows
+
+
+Adaptador de Ethernet VirtualBox Host-Only Network:
+
+   Sufijo DNS específico para la conexión. . :
+   Vínculo: dirección IPv6 local. . . : fe80::b815:5341:e532:693e%16
+   Dirección IPv4. . . . . . . . . . . . . . : 192.168.56.1
+   Máscara de subred . . . . . . . . . . . . : 255.255.255.0
+   Puerta de enlace predeterminada . . . . . :
+
+Adaptador de Ethernet Ethernet:
+
+   Sufijo DNS específico para la conexión. . :
+   Vínculo: dirección IPv6 local. . . : fe80::3828:b32f:c9d1:fbe5%3
+   Dirección IPv4. . . . . . . . . . . . . . : 192.168.1.35
+   Máscara de subred . . . . . . . . . . . . : 255.255.255.0
+   Puerta de enlace predeterminada . . . . . : 192.168.1.1
+
+Andres Torres
+
+
+Windows IP Configuration
+
+
+Ethernet adapter Ethernet:
+
+   Connection-specific DNS Suffix  . : 
+   IPv6 Address. . . . . . . . . . . : 2803:9800:b036:80df:4d1f:1da8:203d:f72e
+   Temporary IPv6 Address. . . . . . : 2803:9800:b036:80df:3c0a:b40:117:457c
+   Link-local IPv6 Address . . . . . : fe80::4d1f:1da8:203d:f72e%13
+   IPv4 Address. . . . . . . . . . . : 192.168.100.53
+   Subnet Mask . . . . . . . . . . . : 255.255.255.0
+   Default Gateway . . . . . . . . . : fe80::1%13
+                                       192.168.100.1
+
+Ethernet adapter VirtualBox Host-Only Network:
+
+   Connection-specific DNS Suffix  . : 
+   Link-local IPv6 Address . . . . . : fe80::316f:61d3:f92d:c647%6
+   IPv4 Address. . . . . . . . . . . : 192.168.56.1
+   Subnet Mask . . . . . . . . . . . : 255.255.255.0
+   Default Gateway . . . . . . . . . : 
+
+Ethernet adapter Conexi¢n de red Bluetooth:
+
+   Media State . . . . . . . . . . . : Media disconnected
+   Connection-specific DNS Suffix  . : 
+
+hora : 11:30
