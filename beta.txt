@@ -19,3 +19,35 @@ Adaptador de Ethernet Ethernet:
    Dirección IPv4. . . . . . . . . . . . . . : 192.168.1.35
    Máscara de subred . . . . . . . . . . . . : 255.255.255.0
    Puerta de enlace predeterminada . . . . . : 192.168.1.1
+
+Andres Torres
+
+
+Windows IP Configuration
+
+
+Ethernet adapter Ethernet:
+
+   Connection-specific DNS Suffix  . : 
+   IPv6 Address. . . . . . . . . . . : 2803:9800:b036:80df:4d1f:1da8:203d:f72e
+   Temporary IPv6 Address. . . . . . : 2803:9800:b036:80df:3c0a:b40:117:457c
+   Link-local IPv6 Address . . . . . : fe80::4d1f:1da8:203d:f72e%13
+   IPv4 Address. . . . . . . . . . . : 192.168.100.53
+   Subnet Mask . . . . . . . . . . . : 255.255.255.0
+   Default Gateway . . . . . . . . . : fe80::1%13
+                                       192.168.100.1
+
+Ethernet adapter VirtualBox Host-Only Network:
+
+   Connection-specific DNS Suffix  . : 
+   Link-local IPv6 Address . . . . . : fe80::316f:61d3:f92d:c647%6
+   IPv4 Address. . . . . . . . . . . : 192.168.56.1
+   Subnet Mask . . . . . . . . . . . : 255.255.255.0
+   Default Gateway . . . . . . . . . : 
+
+Ethernet adapter Conexi¢n de red Bluetooth:
+
+   Media State . . . . . . . . . . . : Media disconnected
+   Connection-specific DNS Suffix  . : 
+
+hora : 11:04
